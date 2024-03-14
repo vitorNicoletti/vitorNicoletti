@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hello, I'm Vitor Nicoletti! 👋
 
-<!--
-**vitorNicoletti/vitorNicoletti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate Computer Science student at PUCPR, currently 3/8 completed. I'm enthusiastic about exploring various areas of computer science and software development.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I'm currently pursuing my Bachelor's degree in Computer Science at PUCPR.
+- 💻 I enjoy working on projects that challenge me and allow me to learn new technologies.
+- 🌱 I'm constantly learning and improving my skills in Python, C, and JavaScript.
+- 🔭 I'm exploring different fields within computer science, all knowledge is welcome!
+
+## Get in Touch
+
+- 📫 You can reach me via email at [nicoletttivitor@gmail.com](mailto:nicoletttivitor@gmail.com).
+- 💬 Let's connect on [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile](https://www.linkedin.com/in/vitor-nicoletti-22285426a/)).
+
+## Languages 
+
+- Python
+- C
+- JavaScript
+- WEB
+- SQL
