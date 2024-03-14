@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student at PUCPR
 
 - 🎓 I'm currently pursuing my Bachelor's degree in Computer Science at PUCPR.
 - 💻 I enjoy working on projects that challenge me and allow me to learn new technologies.
-- 🌱 I'm constantly learning and improving my skills in Python, C, and JavaScript.
+- 🌱 I'm constantly learning and improving my skills as a problem solver.
 - 🔭 I'm exploring different fields within computer science, all knowledge is welcome!
 
 ## Get in Touch
