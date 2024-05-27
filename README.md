@@ -19,5 +19,6 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student at PUCPR
 - Python
 - C
 - JavaScript
+- Java
 - WEB
 - SQL
