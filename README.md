@@ -22,3 +22,6 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student at PUCPR
 - Java
 - WEB
 - SQL
+
+## Check out my latest project!
+- https://github.com/vitorNicoletti/onlineNotebook
